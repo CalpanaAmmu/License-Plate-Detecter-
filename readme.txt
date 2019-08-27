@@ -17,5 +17,3 @@ And import
 	* import PossiblePlate
 ->Run the code in Shell or install the python version 3.7.4 to run the code in the Pycharm
 ->And enter the location of images from 0 to 237 in input 
-
-
